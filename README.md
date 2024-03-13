@@ -28,7 +28,7 @@
 
 <p align="center">
 
-- ## Languages
+- ### Languages
     ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
@@ -37,29 +37,34 @@
     ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
-- ## Frameworks
+
+- ### Frameworks
     ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
     ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) 
     ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat)
     ![Angular Badge](https://img.shields.io/badge/Angular-dd1b16.svg?&logo=angular&logoColor=%980000&style=flat) 
 
-- ## Databases     
+
+- #### Databases     
     ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
     ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat) 
     ![Postgres Badge](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white&style=flat) 
     ![SQLite Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?&logo=sqlite&logoColor=white&style=flat)
 
-- ## Version Controls & CI/CD
+
+- ### Version Controls & CI/CD
     ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
     ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
     ![Docker Badge](https://img.shields.io/badge/Docker*-2496ED?logo=docker&logoColor=fff&style=flat)
 
-- ## Clouds & Hostings
+
+- ### Clouds & Hostings
     ![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=00C7B7&style=flat) 
     ![Heroku Badge](https://img.shields.io/badge/Heroku-%23430098.svg?&logo=heroku&logoColor=white&style=flat) 
 
-- ## IDEs & Tools
+
+- ### IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
     ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
@@ -72,3 +77,15 @@
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
     ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+<div align="center">  
+  <img width="49%" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ERV-ROD&theme=dracula&hide_border=false&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Marcia Gabrielle github stats" /> 
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERV-ROD&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+</div>
+
+<br>
+<br>
+<br>
