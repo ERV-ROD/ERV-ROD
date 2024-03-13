@@ -6,7 +6,7 @@
 </p>
 <p align='center'>
 <hr>
-<br>
+<br/>
 
 
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>About Me<sub style="font-size: 15px; font-style: italic"><br> 
@@ -71,5 +71,4 @@
     ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
     ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
-
 
