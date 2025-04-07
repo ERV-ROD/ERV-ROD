@@ -14,12 +14,18 @@
 [![Gmail Badge](https://img.shields.io/badge/Ervin%20Rodríguez-c71610?logo=gmail&logoColor=fff&style=flat)](https://mailto:ervinrodriguez140@gmail.com)</b>
 [![Telegram Badge](https://img.shields.io/badge/Ervin%20Rodríguez-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/ervinRV)</b>
 
-
 - 🌐 I’m currently a web developer with experience in Angular & React.
 - 💻 I also have a strong passion for backend development.
 - 📚 I'm on track for learning more about Artificial Intelligence.
 - 📖 I am constantly learning.
 - 👨‍🏫 I'm actively engaged in various data science projects while also serving as a teacher, empowering women to enter in this field.
+<br>
+
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My professional contributions<sub style="font-size: 15px; font-style: italic"><br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ERV-ROD/ERV-ROD/refs/heads/main/image.png" alt="Work GitHub Contributions">
+</p>
 
 <br>
 
@@ -80,6 +86,8 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+
+
 <div align="center">
 <div align="center">  
   <img width="49%" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ERV-ROD&theme=dracula&hide_border=false&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Marcia Gabrielle github stats" /> 
@@ -89,3 +97,5 @@
 <br>
 <br>
 <br>
+
+
