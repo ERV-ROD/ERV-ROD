@@ -1,87 +1,90 @@
-<h1 align='center'> Hello There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-
-<hr>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ervin+Rodríguez;Computer+Engineering+Student;Web+Developer;Software+Developer;%40ERV-ROD">
-</p>
-<p align='center'>
-<hr>
-<br/>
-
-
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>About Me<sub style="font-size: 15px; font-style: italic"><br> 
-[![LinkedIn](https://img.shields.io/badge/Ervin%20Rodríguez-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervin-rodríguez-villanueva-a7838a1b2/) 
-[![Gmail Badge](https://img.shields.io/badge/Ervin%20Rodríguez-c71610?logo=gmail&logoColor=fff&style=flat)](https://mailto:ervinrodriguez140@gmail.com)</b>
-[![Telegram Badge](https://img.shields.io/badge/Ervin%20Rodríguez-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/ervinRV)</b>
-
-- 🌐 I’m currently a web developer with experience in Angular & React.
-- 💻 I also have a strong passion for backend development.
-- 📚 I'm on track for learning more about Artificial Intelligence.
-- 📖 I am constantly learning.
-- 👨‍🏫 I'm actively engaged in various data science projects while also serving as a teacher, empowering women to enter in this field.
-<br>
-
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My professional contributions<sub style="font-size: 15px; font-style: italic"><br>
+<h1 align="center"> Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ERV-ROD/ERV-ROD/refs/heads/main/image.png" alt="Work GitHub Contributions">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=70&lines=I'm+Ervin+Rodríguez;Computer+Engineer;Full+Stack+Developer;Frontend+Specialist;Data+Science+Enthusiast">
 </p>
 
-<br>
+---
 
-
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"> About Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ervinrodriguezvillanueva/">
+    <img src="https://img.shields.io/badge/Ervin%20Rodríguez-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ervinrodriguez140@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c71610?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/ervinRV">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white">
+  </a>
+</p>
 
-- ### Languages
-    ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
-    ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
-    ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
-    ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
-    ![TypeScript Badge](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
-    ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
-    ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
+- 👨‍💻 I am a **Computer Engineer** with 3+ years of experience building **web and mobile applications**.
+- 🌐 Frontend developer with strong skills in **React, React Native, Angular, Next.js**, and UI frameworks.
+- 💡 Experience in backend development using **Node.js, Python, Java, Spring Boot**.
+- 📊 Skilled in data visualization with **Power BI and Tableau**.
+- 📚 Actively learning AI and Machine Learning.
+- 👨‍🏫 Former Python tutor, supporting women in STEM initiatives.
+- 🚀 Passionate about clean code, scalability, and user-centered design.
 
+---
 
-- ### Frameworks
-    ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
-    ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) 
-    ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat)
-    ![Angular Badge](https://img.shields.io/badge/Angular-dd1b16.svg?&logo=angular&logoColor=%980000&style=flat) 
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"> Professional Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ERV-ROD/ERV-ROD/main/image.png" alt="GitHub Contributions" width="600">
+</p>
 
-- #### Databases     
-    ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
-    ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat) 
-    ![Postgres Badge](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white&style=flat) 
-    ![SQLite Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?&logo=sqlite&logoColor=white&style=flat)
+---
 
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
-- ### Version Controls & CI/CD
-    ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-    ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-    ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
-    ![Docker Badge](https://img.shields.io/badge/Docker*-2496ED?logo=docker&logoColor=fff&style=flat)
+### 💻 **Languages**
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+### ⚛️ **Frontend**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-- ### Clouds & Hostings
-    ![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=00C7B7&style=flat) 
-    ![Heroku Badge](https://img.shields.io/badge/Heroku-%23430098.svg?&logo=heroku&logoColor=white&style=flat) 
+### 🛠️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-000?logo=salesforce)
 
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
 
-- ### IDEs & Tools
-    ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-    ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
-    ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-    ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
-    ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat)
-    ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
-    ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
-    ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat)
-    ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
-    ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
-    ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
+### 🧰 **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF?logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+### 🎨 **Design & Analytics**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
